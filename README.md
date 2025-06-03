@@ -1,4 +1,4 @@
-# Django Chatbot API
+# Django Chatbot With Rest API
 
 A Django-based API for a chatbot using Cohere API with authentication features.
 
