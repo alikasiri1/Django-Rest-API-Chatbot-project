@@ -1,0 +1,69 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Django stuff:
+*.log
+*.pot
+*.pyc
+*.pyo
+*.pyd
+db.sqlite3
+media/
+
+# If you collect static files, ignore the collected static directory
+/staticfiles/
+# Or if you use STATIC_ROOT
+/static/
+
+# Environment variables
+.env
+.env.*
+
+# Virtual environment
+venv/
+
+# VSCode settings
+.vscode/
+
+# PyCharm settings
+.idea/
+
+# IDEs and editors
+*.swp
+*.swo
+*.bak
+*~ 
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Pytest cache
+.pytest_cache/
+
+# mypy
+.mypy_cache/
+
+# Other
+*.sqlite3
+*.db
+
+# OS generated files
+.DS_Store
+Thumbs.db
