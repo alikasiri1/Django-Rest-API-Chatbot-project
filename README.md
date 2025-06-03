@@ -2,6 +2,9 @@
 
 A Django-based API for a chatbot using Cohere API with authentication features.
 
+## Rest API documantaion 
+https://documenter.getpostman.com/view/36760752/2sB2qi8Hzc
+
 ## Setup Instructions
 
 1. Create a virtual environment:
@@ -47,5 +50,4 @@ python manage.py runserver
 - POST /api/chat/ - Send a message to the chatbot
 - GET /api/chat/history/ - Get chat history for the authenticated user 
 
-## documantaion 
-https://documenter.getpostman.com/view/36760752/2sB2qi8Hzc
+
